@@ -1,1 +1,1 @@
-# bothub-integrations
+# Интеграции с сервисом bothub.chat
